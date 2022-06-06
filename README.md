@@ -1,6 +1,10 @@
 # 👋 dvdheiden
 
-Hi, I'm @dvdheiden! I'm a freelance developer at @vdhicts and specialized in working with the Laravel framework.
+Hi, I'm @dvdheiden! I'm a freelance developer at [@vdhicts](https://github.com/vdhicts) and specialized in working with the Laravel framework.
+
+## 📦 Packages
+
+You can find my packages under the GitHub organisation of my company, see the [repositories of @vdhicts](https://github.com/orgs/vdhicts/repositories).
 
 ## 📫 Find me on the web
 
