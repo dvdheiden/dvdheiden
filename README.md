@@ -4,7 +4,9 @@ Hi, I'm @dvdheiden! I'm a freelance developer at [@vdhicts](https://github.com/v
 
 ## 📦 Packages
 
-You can find my packages under the GitHub organisation of my company, see the [repositories of @vdhicts](https://github.com/orgs/vdhicts/repositories).
+You can find my packages under the GitHub organisation of my company, see the [repositories of @vdhicts](https://github.com/orgs/vdhicts/repositories). 
+
+I'm also the maintainer of [CyberfusionNL/cyberfusion-cluster-api-client](https://github.com/CyberfusionNL/cyberfusion-cluster-api-client).
 
 ## 📫 Find me on the web
 
