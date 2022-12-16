@@ -1,10 +1,10 @@
 # 👋 dvdheiden
 
-Hi, I'm @dvdheiden! I'm a freelance developer at [@vdhicts](https://github.com/vdhicts) and specialized in working with the Laravel framework.
+Hi, I'm @dvdheiden! I'm a web developer at [@goedemiddag](https://github.com/goedemiddag) and [@vdhicts](https://github.com/vdhicts). Most of my time I'm using the Laravel Framework for which I'm a [Certified Developer](https://exam.laravelcert.com/is/dick-van-der-heiden/certified-since/2022-10-03?).
 
 ## 📦 Packages
 
-You can find my packages under the GitHub organisation of my company, see the [repositories of @vdhicts](https://github.com/orgs/vdhicts/repositories). 
+You can find my personal packages at [@vdhicts](https://github.com/orgs/vdhicts/repositories) or take a look at the repositories of [@goedemiddag](https://github.com/orgs/goedemiddag/repositories).
 
 I'm also the maintainer of [CyberfusionNL/cyberfusion-cluster-api-client](https://github.com/CyberfusionNL/cyberfusion-cluster-api-client).
 
