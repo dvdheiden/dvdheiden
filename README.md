@@ -1,6 +1,6 @@
 # 👋 dvdheiden
 
-Hi, I'm @dvdheiden! I'm a web developer at [@goedemiddag](https://github.com/goedemiddag) and [@vdhicts](https://github.com/vdhicts). Most of my time I'm using the Laravel Framework for which I'm a [Certified Developer](https://exam.laravelcert.com/is/dick-van-der-heiden/certified-since/2022-10-03?).
+Hi, I'm @dvdheiden! I'm the owner [@goedemiddag](https://github.com/goedemiddag) and [@vdhicts](https://github.com/vdhicts). as a webdeveloper, Laravel is my framework of choice for which I'm a [Certified Developer](https://exam.laravelcert.com/is/dick-van-der-heiden/certified-since/2022-10-03?).
 
 ## 📦 Packages
 
@@ -13,3 +13,4 @@ I'm also the maintainer of [CyberfusionNL/cyberfusion-cluster-api-client](https:
 - Twitter - [@dheiden](https://twitter.com/dheiden)
 - LinkedIn - [D. van der Heiden](https://www.linkedin.com/in/dvdheiden)
 - Blog - [dvdheiden.nl](https://www.dvdheiden.nl)
+- Web agency Goedemiddag - [goedemiddag.nl](https://www.goedemiddag)
