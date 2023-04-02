@@ -1,6 +1,6 @@
 # 👋 dvdheiden
 
-Hi, I'm @dvdheiden! I'm the owner of  [@goedemiddag](https://github.com/goedemiddag) and [@vdhicts](https://github.com/vdhicts). as a webdeveloper, Laravel is my framework of choice for which I'm a [Certified Developer](https://exam.laravelcert.com/is/dick-van-der-heiden/certified-since/2022-10-03?).
+Hi, I'm @dvdheiden! I'm the owner of  [@goedemiddag](https://github.com/goedemiddag) and [@vdhicts](https://github.com/vdhicts). For my role as a webdeveloper, Laravel is my framework of choice for which I'm a [Certified Developer](https://exam.laravelcert.com/is/dick-van-der-heiden/certified-since/2022-10-03?).
 
 ## 📦 Packages
 
