@@ -6,7 +6,7 @@ Hi, I'm @dvdheiden! I'm the owner of  [@goedemiddag](https://github.com/goedemid
 
 You can find my personal packages at [@vdhicts](https://github.com/orgs/vdhicts/repositories) or take a look at the repositories of [@goedemiddag](https://github.com/orgs/goedemiddag/repositories).
 
-I'm also the maintainer of [CyberfusionNL/cyberfusion-cluster-api-client](https://github.com/CyberfusionNL/cyberfusion-cluster-api-client).
+I'm also the maintainer of [CyberfusionNL/cyberfusion-cluster-api-client](https://github.com/CyberfusionNL/cyberfusion-cluster-api-client) and [CyberfusionNL/oxxa-api-client](https://github.com/CyberfusionNL/oxxa-api-client).
 
 ## 📫 Find me on the web
 
