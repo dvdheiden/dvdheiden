@@ -1,10 +1,10 @@
 # 👋 dvdheiden
 
-Hi, I'm @dvdheiden, co-owner of the web agency [Goedemiddag](https://github.com/goedemiddag) and founder of my (former) personal company [Vdhicts](https://github.com/vdhicts).
+Hi, I am @dvdheiden! Founder of my (former) personal business [Vdhicts](https://github.com/vdhicts) which has merged with the web agency [Goedemiddag](https://github.com/goedemiddag) at which I'm now a co-owner.
 
-As a back-end PHP developer, I specialize in building websites and web applications using the Laravel framework, for which I’m also a certified Laravel developer.
+After studying Computer Science, I became a back-end PHP developer. Started using Laravel at version 3 and since Laravel 4.2, I decided to fully focus on using the Laravel framework to create websites and web applications. In 2022 I became a certified Laravel developer.
 
-Besides development, I’m often involved in the planning, process design, and management of projects, taking on roles such as project manager or product owner. I enjoy bridging the gap between technical execution and strategic decision-making to ensure the project runs smoothly for both the developers and the client, and to ensure the project delivers real value.
+In addition to development, I frequently participate in project planning, process design and project management because I really like bridging the gap between technical execution and strategic decision-making to make sure the project offers genuine value and works well for both the client and the engineers.
 
 ## 📦 Packages
 
@@ -24,7 +24,7 @@ Find more of my packages at:
 
 ### Maintainer
 
-I'm also the maintainer of these packages:
+Besides developing my own packages, I'm also the maintainer of these packages:
 
 | Package                                      | URL                                                             | Status     |
 |----------------------------------------------|-----------------------------------------------------------------|------------|
