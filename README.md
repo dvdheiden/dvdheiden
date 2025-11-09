@@ -8,29 +8,21 @@ In addition to development, I frequently participate in project planning, proces
 
 ## 📦 Packages
 
-I enjoy developing open-source PHP packages, which allow me to experiment with new ideas or tools, contribute to the community, and create tools that makes (my own) development work a little bit easier. A quick look at some of the packages I've developed:
+I enjoy developing open-source PHP packages, which allow me to experiment with new ideas or tools, contribute to the community, and create tools that makes (my own) development work a little bit easier. 
 
-| Package                          | URL                                                 | Description                                                           |
-|----------------------------------|-----------------------------------------------------|-----------------------------------------------------------------------|
-| vdhicts/laravel-validation-rules | https://github.com/vdhicts/laravel-validation-rules | Offers additional validation rules for Laravel                        |
-| vdhicts/csr-generator            | https://github.com/vdhicts/csr-generator            | A CSR generator for PHP                                               |
-| vdhicts/keepachangelog-parser    | https://github.com/vdhicts/keepachangelog-parser    | Parser for the Keep A Changelog standard (unofficial)                 |
-| goedemiddag/request-response-log | https://github.com/goedemiddag/request-response-log | Package for logging (external) requests and responses in Laravel      |
-| goedemiddag/laravel-recaptcha    | https://github.com/goedemiddag/laravel-recaptcha    | Integrate Google reCAPTCHA v3 in Laravel with threshold configuration |
-
-Find more of my packages at:
+See the pinned repositories for my favorite packages, or take a look at my packages at:
 - [@vdhicts](https://github.com/orgs/vdhicts/repositories)
 - [@goedemiddag](https://github.com/orgs/goedemiddag/repositories)
 
-### Maintainer
+## 🛠️ Maintainer
 
 Besides developing my own packages, I'm also the maintainer of these packages:
 
-| Package                                      | URL                                                             | Status     |
-|----------------------------------------------|-----------------------------------------------------------------|------------|
-| CyberfusionIO/php-core-api-client            | https://github.com/CyberfusionIO/php-core-api-client            | Active     |
-| CyberfusionIO/php-cyberfusion-oxxa           | https://github.com/CyberfusionIO/php-cyberfusion-oxxa           | Active     |
-| CyberfusionIO/cyberfusion-cluster-api-client | https://github.com/cyberfusionIO/cyberfusion-cluster-api-client | Deprecated |
+| Package                                                                                                         | Status     |
+|-----------------------------------------------------------------------------------------------------------------|------------|
+| [CyberfusionIO/php-core-api-client](https://github.com/CyberfusionIO/php-core-api-client)                       | Active     |
+| [CyberfusionIO/php-cyberfusion-oxxa](https://github.com/CyberfusionIO/php-cyberfusion-oxxa)                     | Active     |
+| [CyberfusionIO/cyberfusion-cluster-api-client](https://github.com/cyberfusionIO/cyberfusion-cluster-api-client) | Deprecated |
 
 ## 📫 Find me on the web
 
