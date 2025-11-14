@@ -7,7 +7,7 @@
 - 🧑‍🎓 Certified Laravel developer
 - 📂 Involved in project planning, process design and project management
 - 🫶 I really like bridging the gap between technical execution and strategic decision-making 
-- 🥇 Making sure the project offers genuine value and works well for both the client and the engineers.
+- 🥇 Making sure a project offers genuine value and works well for both the client and the engineers
 
 ## 📦 Packages
 
